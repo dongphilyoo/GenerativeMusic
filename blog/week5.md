@@ -4,25 +4,12 @@ Since I have researched about the ethical issues of technology in college as a p
 
 There are many recent observations show that AI is just as capable of bias as humans, even though they run on mathematics. The reason why AI tools are not free from bias because they learn from their human makers and their biases. At this point, it seems like just an extension of human nature and culture.
 
+Quotes by "[Machine bias] (https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/) is the growing body of research around the ways in which algorithms exhibit the bias of their creators or their input data. As machine learning is increasingly used across all industries, bias is being discovered with subtle and obvious consequences. It is important to note that machine learning algorithms rely on bias — statistical bias. These algorithms could not make any predictions at all if it wasn’t for the statistical bias required to make estimations about new data that the model has never seen before. Machine bias is different than statistical bias. Said simply — machine bias is programming that assumes the prejudice of its creators or data."
 
-A study by the University of Bath found that machines showed biases similar to those found in the humans.
-
- 
-RECOMMENDED
-Grammarly patches exploit in Chrome extension
-For instance, the word “men” was associated with words like “work,” “math,” and “science” while the word “women” was associated with “family” and “the arts.” And young people, flowers, and musical instruments were considered more pleasant than old people, insects (Gil Grissom from “CSI” is the person who loves insects and enjoys racing cockroaches, which is not an appealing hobby) or weapons. How did machines get these biases? From their human makers.
-
-
-This has been an issue for some time, as evidence of AI bias was found in recruiting, online advertising, and pricing. What’s surprising is that all of these are driven by so-called neutral algorithms. It is concerning because it could result in several problems.
-
-For instance, if an AI tool sorts résumés and associates the word “researcher” with “men,” it will only consider applications received from men and disregard the ones from women. Similarly, when sorting loan applications, the tool could turn down a person’s application because the machine thought he was black. This is a complete stereotype and is wrong. It is also worrisome since who do you even complain to in a world where humans are hands-off?
-
-
-Not even Google is free from bias. When using Google Translate, the tool automatically converted gender-neutral pronouns into male or female. For instance, “doctor” was converted to “he” and nurse to “she.”
+A several studies by universities and researchers found that machines showd biases similar to those found in the humans. For instance, the word “men” was associated with words like “work,” “math,” and “science” while the word “women” was associated with “family” and “the arts.” And young people, flowers, and musical instruments were considered more pleasant than old people, insects (Gil Grissom from “CSI” is the person who loves insects and enjoys racing cockroaches, which is not an appealing hobby) or weapons. As mentioned in the last class, this has been an issue for some time, as evidence of AI bias was found in recruiting, online advertising, and pricing. What’s surprising is that all of these are driven by so-called neutral algorithms. It is concerning because it could result in several problems. Not even Google is free from bias. When using Google Translate, the tool automatically converted gender-neutral pronouns into male or female. For instance, “doctor” was converted to “he” and nurse to “she.”
+We can find others not only from language pretty easily.
 
 The catastrophe that could ensue
-AI tools
-Shutterstock
 
 We hardly need to imagine any of it. AI-powered tools have attracted bad press already because of ‘biased’ results. Some instances:
 
@@ -60,7 +47,7 @@ In the ideal world, machine-learning algorithms would be totally objective. They
 Overall, the most influential components of a machine learning model are the algorithm and data used. A model is only as good as the data it learns from, and as we will see below, this is imperative to maintaining the integrity of decisions made from machine learning algorithms.
 
 What is machine bias?
-Machine bias is the growing body of research around the ways in which algorithms exhibit the bias of their creators or their input data. As machine learning is increasingly used across all industries, bias is being discovered with subtle and obvious consequences. It is important to note that machine learning algorithms rely on bias — statistical bias. These algorithms could not make any predictions at all if it wasn’t for the statistical bias required to make estimations about new data that the model has never seen before. Machine bias is different than statistical bias. Said simply — machine bias is programming that assumes the prejudice of its creators or data.
+
 
 There have been a wide range of discoveries of biased machine learning outcomes over the last few years in correlation with the growing use of the technology. As much as machine learning offers significant increases in convenience, oftentimes this benefits some to the detriment of others.
 
