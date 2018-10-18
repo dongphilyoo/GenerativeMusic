@@ -1,1 +1,41 @@
-## Blog
+# Bias in Machine Learning
+
+ipt. Algorithms are chosen based on a given business use case in which much or very little could be known about a given dataset. Supervised or unsupervised algorithms are used to find and identify trends in large sets of data. The five primary components of creating and using a machine learning algorithm are data preprocessing, fitting the model, making predictions, visualizing results, and evaluating results. [source]
+
+Overall, the most influential components of a machine learning model are the algorithm and data used. A model is only as good as the data it learns from, and as we will see below, this is imperative to maintaining the integrity of decisions made from machine learning algorithms.
+
+What is machine bias?
+Machine bias is the growing body of research around the ways in which algorithms exhibit the bias of their creators or their input data. As machine learning is increasingly used across all industries, bias is being discovered with subtle and obvious consequences. It is important to note that machine learning algorithms rely on bias — statistical bias. These algorithms could not make any predictions at all if it wasn’t for the statistical bias required to make estimations about new data that the model has never seen before. Machine bias is different than statistical bias. Said simply — machine bias is programming that assumes the prejudice of its creators or data.
+
+There have been a wide range of discoveries of biased machine learning outcomes over the last few years in correlation with the growing use of the technology. As much as machine learning offers significant increases in convenience, oftentimes this benefits some to the detriment of others.
+
+Every company that builds technology in any capacity is at risk of incorporating the prejudice of its creators.
+
+
+What is the impact of machine bias?
+Machine bias is increasingly impactful due to its expansive uses in the modern world. Algorithms demonstrating machine bias may harm human life in an unfair capacity. Often this happens when the list of data categories is too limited, or inappropriate or invalid personal data is used. Some of these consequences may seem hypothetical, innocuous, and long term, while others are immediate and direct.
+
+The immediate consequences of machine learning can be observed from the growing use of these algorithms in law enforcement. From research conducted by ProPublica, a non-profit research institution, it was found that COMPAS, a machine learning algorithm used to determine criminal defendants’ likelihood to recommit crimes, was biased in how it made predictions. The algorithm is used by judges in over a dozen states to make decisions on pre-trial conditions, and sometimes, in actual sentencing. ProPublica found that the algorithm was two times more likely to incorrectly predict black defendants were high risk for recommitting a crime, and conversely two times more likely to incorrectly predict white defendants were low risk for recommitting a crime. This difference could (and did) mean defendants were held before trial or let out on bail, or were convicted with a tougher or more lenient sentence.
+
+Facial recognition is a well-known form of machine learning. Using facial recognition software, common on social media platforms like Facebook or with Google Photo, an algorithm can determine a face it has seen before in a photo by name. In July 2015, Jacky Alcine posted to Twitter a Google Photo that used facial recognition tagging him and another friend as gorillas [source]. The machine learning algorithm in the Google Photo software learned incorrectly. Most likely, the data used to train the algorithm did not include substantial training for facial appearances of all kinds.
+
+Similarly, when you surf the web or interact with various social media platforms, it is common to see advertisements along the side, top, or bottom of your web page. More often than not, in recent years, these ads are tailored to your specific interests, needs, and wants — as determined by your web search history. Through the use of marketing automation tools, it is possible to track a user’s interaction with the website they are on, and anything they do from a given website. This gathered data is captured and analyzed with machine learning algorithms, which then predict what types of ads you’d like to see based on your interactions online. A study by AdFisher recently revealed that men were six times more likely than women to see Google ads for high paying jobs [source]. The immediate consequence of this machine bias is that a woman may not see a high paying job and therefore is less likely to know about it and apply. The long-term result could mean more ingrained gender discrepancies in high ranking positions.
+
+
+Using ethics to solve machine bias
+The first step to correcting bias that results from machine learning algorithms is acknowledging the bias exists. Researchers have been discussing ethical machine making since as early as 1985, when James Moor defined implicit and explicit ethical agents. Implicit agents are ethical because of their inherent programming or purpose. Explicit agents are machines given principles or examples to learn from to make ethical decisions in uncertain or unknown circumstances.
+
+It is imperative that the AI community emphasize the use of machine ethics to prevent and correct for bias in machine learning algorithms. There are three primary ways that ethics can be used to mitigate negative unfairness in algorithmic programming: technical, political, and social.
+
+As machine learning and AI experts say, “garbage in, garbage out” [source]. Proactive or retroactive efforts can be taken to find technical solutions within the code used to conduct machine learning. To save time, energy, and resources, it is preferable to take proactive measures to avoid bias in the first place. This includes measures such as finding comprehensive data, experimenting with different datasets and metrics, increased representation in the technical workforce, external validity testing, and auditing. When protected attributes like age, gender, and race are factors in an algorithm, it is important to incorporate them while also addressing the social bias that may come from particular attributes within the code. Obviously, this is a sensitive and complicated task but is not impossible. Exciting research was done last year to test this very goal [source].
+
+Political pressure can be used to incentivize resource allocation to ethical machine learning creation. The EU passed the General Data Protection Regulation (GDPR) to take effect in 2018, which outlines citizens’ “right to explanation” regarding machine learning decisions made about them. The Obama administration also formally pushed for investigation of big data and machine learning algorithms to ensure fairness in 2016. Policies and publicity from political figures give more weight to the value and importance of ethical machine learning creation.
+
+Lastly, social awareness can make an enormous difference in correcting for the far-reaching impacts of bias in machine learning. To date, much of the prejudice found in machine learning algorithms has been identified by the very users it hurts. Educating users about machine learning, how it is used and why, empowers consumers to demand higher ethical standards and transparent practices from the corporations that serve them. Community groups such as the Algorithmic Justice League (AJL) founded by Joy Buolamwini, help to promote crowd-sourced reporting and the study of bias in machine learning and other technologies. Involvement from diverse populations in the ethical creation and consumption of machine learning predictions will lead to further progress in ethics that include all users.
+
+It is up to all of us to determine the path machine learning algorithms take and how well they ultimately serve our highest purposes. If we carefully consider the prejudices we inherently carry when creating these technologies and correct for them, creators and the companies they lead will harness the real power of machine learning to the benefit of corporations and consumers.
+
+
+Thank you for reading! If you have any questions or ideas on what you’d like to hear more about regarding ethics in machine learning and AI, please feel free to comment below or shoot me a message: nicole.shadowen@gmail.com.
+
+
