@@ -1,6 +1,61 @@
 # Bias in Machine Learning
 
-ipt. Algorithms are chosen based on a given business use case in which much or very little could be known about a given dataset. Supervised or unsupervised algorithms are used to find and identify trends in large sets of data. The five primary components of creating and using a machine learning algorithm are data preprocessing, fitting the model, making predictions, visualizing results, and evaluating results. [source]
+Since I have researched about the ethical issues of technology in college as a philosophy majored student, the concept of bias in reference of machine learning has been a main concern for years.
+
+There are many recent observations show that AI is just as capable of bias as humans, even though they run on mathematics. The reason why AI tools are not free from bias because they learn from their human makers and their biases. At this point, it seems like just an extension of human nature and culture.
+
+
+A study by the University of Bath found that machines showed biases similar to those found in the humans.
+
+ 
+RECOMMENDED
+Grammarly patches exploit in Chrome extension
+For instance, the word “men” was associated with words like “work,” “math,” and “science” while the word “women” was associated with “family” and “the arts.” And young people, flowers, and musical instruments were considered more pleasant than old people, insects (Gil Grissom from “CSI” is the person who loves insects and enjoys racing cockroaches, which is not an appealing hobby) or weapons. How did machines get these biases? From their human makers.
+
+
+This has been an issue for some time, as evidence of AI bias was found in recruiting, online advertising, and pricing. What’s surprising is that all of these are driven by so-called neutral algorithms. It is concerning because it could result in several problems.
+
+For instance, if an AI tool sorts résumés and associates the word “researcher” with “men,” it will only consider applications received from men and disregard the ones from women. Similarly, when sorting loan applications, the tool could turn down a person’s application because the machine thought he was black. This is a complete stereotype and is wrong. It is also worrisome since who do you even complain to in a world where humans are hands-off?
+
+
+Not even Google is free from bias. When using Google Translate, the tool automatically converted gender-neutral pronouns into male or female. For instance, “doctor” was converted to “he” and nurse to “she.”
+
+The catastrophe that could ensue
+AI tools
+Shutterstock
+
+We hardly need to imagine any of it. AI-powered tools have attracted bad press already because of ‘biased’ results. Some instances:
+
+Google Photos auto-tagging African-Americans as apes in some images.
+Microsoft Kinect having a tough time in recognizing people with dark skin tone.
+Passport systems reading Asians’ images as people with their eyes closed and rejecting the uploaded images.
+The impact of biases in AI is clearly hard-hitting. The problem is, it’s not only limited or skewed data that could create deep-rooted biases in machine learning algorithms driving AI applications. The biases could result from other sources.
+
+Sources of biases in AI tools
+Whereas some AI systems “learn” from the data you feed them, others learn from their interactions with real users. Instant messaging apps loaded with AI capabilities are the perfect example. In such cases, however, it’s very likely that the applications will develop the biases of the people whom it interacts with.
+
+Microsoft’s Tay, a Twitter-based chatbot, was absolutely ruined as a result of its interactions with a user community that proved to be highly racist and misogynistic. The result — that chatbot started posting aggressive, racist, and misogynist tweets, causing Microsoft to promptly pull it down, after a mere 24 hours of going live. That chatbot could not think for itself, obviously — it needed to be given some commonsense and tact in its algorithm.
+
+Emergent bias is another source, and though it’s one of the lesser known, it’s the scariest of them all. Consider Facebook: You like a certain kind of statuses, posts, and videos, and you can expect your timeline to be loaded with content “more like the same” as you liked earlier.
+
+This is called “confirmation bias,” wherein the beliefs and values of an individual, related to anything (as trivial as one’s favorite TV series genre to as far-reaching as one’s political affiliations), get reinforced one day after another, purely because the individual is hardly exposed to contradictory information. When Elon Musk calls AI “an existential threat,” it stems a lot from the potential of AI to absolutely numb down the human ability to mature, evolve, change, and adjust, because of emergent biases.
+
+Bias elimination
+AI tools
+
+To make sure these prejudices are not present in AI tools, a new category of jobs is about to be created: de-biasing AI tools. Once an AI tool has been created, it will be tested for biases by an expert who is trained in de-biasing machines. Areas like credit and lending have always suffered from human discrimination, and companies that deploy AI tools must be aware of the discriminations by these tools. Most companies are aware of the challenge, and have even started testing the machines to free them from biases.
+
+What is most concerning is that consumers might never be able to fathom how machines can also turn discriminatory, and keep being treated unfairly without realizing it (scary really — conjures up images of Skynet!). To solve the problem, the people creating the tools and entering data in them must be free from biases — or at least know that they have them and make sure they aren’t imparted into the AI tools.
+
+But ultimately, all data-driven tools created by humans will always have some amount of bias, and we have to live with it. There is nothing intrinsically wrong with profiling someone though — human beings do it even though some say it is immoral. Without the ability to profile, human evolution would have been curtailed several millennia ago. Detecting danger is part of what makes us human but being biased based on unethical reasons is concerning.
+
+Not an ideal situation, not an ideal world
+In the ideal world, machine-learning algorithms would be totally objective. They, however, learn from digital artifacts created by humans, with all their proclivities and biases. However, by acknowledging the existence of these biases, identifying their sources, and eliminating them, AI can be made a lot more objective.
+
+
+
+
+
 
 Overall, the most influential components of a machine learning model are the algorithm and data used. A model is only as good as the data it learns from, and as we will see below, this is imperative to maintaining the integrity of decisions made from machine learning algorithms.
 
