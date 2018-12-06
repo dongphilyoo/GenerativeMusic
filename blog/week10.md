@@ -2,4 +2,4 @@
 SampleRNN: An Unconditional End-to-End Neural Audio Generation Model
 [repo](https://github.com/deepsound-project/samplernn-pytorch)
 
-<audio src="audio.mp3" controls preload></audio>
+<audio src="blog/sample1.wav" controls preload></audio>
